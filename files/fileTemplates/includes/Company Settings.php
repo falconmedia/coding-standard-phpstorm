@@ -1,3 +1,3 @@
-#set( $Company = "Youwe" )
-#set( $Vendor = "Youwe" )
-#set( $Website = "https://www.youweagency.com")
+#set( $Company = "Falcon Media" )
+#set( $Vendor = "FalconMedia" )
+#set( $Website = "https://www.falconmedia.nl")
